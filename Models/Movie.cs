@@ -1,6 +1,6 @@
 namespace JEdAPI.Models
 {
-    //[NotMapped]
+    
     public class Movie
     {
         public string Title { get; set; }

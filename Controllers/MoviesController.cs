@@ -33,7 +33,8 @@ namespace JEdAPI.Controllers;
 
               try{
 
-               return Ok(await MovieRepository.GetMovies(movieTitle));   
+               
+            return Ok(await MovieRepository.GetMovies(movieTitle));   
 
             }
             catch (Exception)
@@ -54,7 +55,7 @@ namespace JEdAPI.Controllers;
                    
 
        
-         return await MovieRepository.GetMovieById(Id);
+              return Ok( await MovieRepository.GetMovieById(Id));
 
             }
 
@@ -69,4 +70,3 @@ namespace JEdAPI.Controllers;
 
 
     }
-

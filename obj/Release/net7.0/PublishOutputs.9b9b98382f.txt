@@ -1,0 +1,16 @@
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/JEdAPI
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/appsettings.Development.json
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/appsettings.json
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/JEdAPI.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/JEdAPI.deps.json
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/JEdAPI.runtimeconfig.json
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/JEdAPI.pdb
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Microsoft.AspNetCore.JsonPatch.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Newtonsoft.Json.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Newtonsoft.Json.Bson.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ohcsf/JEdAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
